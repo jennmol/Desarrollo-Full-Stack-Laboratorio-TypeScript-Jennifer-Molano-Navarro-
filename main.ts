@@ -67,5 +67,5 @@ const nuevaMatriz = registrosArray
   });
 
 // Mostrar los tres registros de persona con los cambios realizados
-console.log(registrosArray);
+console.log(nuevaMatriz);
 
