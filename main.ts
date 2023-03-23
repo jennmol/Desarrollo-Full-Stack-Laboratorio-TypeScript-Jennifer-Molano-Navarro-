@@ -53,8 +53,7 @@ console.log(persona2);
 console.log(persona3);
 
 // Agrupar los registros de persona en un array
-let registrosArray: Array<Persona> = []
-registrosArray.push(persona1, persona2, persona3);
+const registrosArray: Persona [] = [persona1, persona2, persona3]
 
 // Modificar un registro de persona buscando su DNI
 const nuevaMatriz = registrosArray
